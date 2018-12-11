@@ -4,7 +4,7 @@
 
 [https://www.valentinog.com/blog/react-webpack-babel/](https://www.valentinog.com/blog/react-webpack-babel/)
 
-[https://www.valentinog.com/blog/webpack-tutorial/])(https://www.valentinog.com/blog/webpack-tutorial/)
+[https://www.valentinog.com/blog/webpack-tutorial/](https://www.valentinog.com/blog/webpack-tutorial/)
 
 ```commandLine
 npm init -y
